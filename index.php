@@ -1,4 +1,4 @@
 <?php
-  header('Location: http://www.example.com/');
+  header('Location: ');
   exit;
 ?>
